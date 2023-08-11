@@ -1,1 +1,1 @@
-# Data-Visualization-Netflix-swot-analysis-
+Here we explore the intricacies ofNetflixthrough a comprehensive SWOT analysis, uncovering its strengths, weaknesses, opportunities, and threats in the streaming entertainment industry. Delve into diverse datasets that encompass Netflix's content, financials, and market trends, shedding light on its growth story and challenges. Gain insights from visualizations and data spanning 2013 to 2022, offering a holistic understanding of Netflix's journey in the digital entertainment realm.
